@@ -1,0 +1,8 @@
+:root {
+  --main-color: orange;
+  --back-color: rgba(59, 55, 55, 0.966);
+}
+
+body {
+  background-color: var(--back-color);
+}
